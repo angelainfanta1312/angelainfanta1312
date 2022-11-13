@@ -25,7 +25,7 @@ I'm an Mtech Student interested in building dynamic applications <img src="https
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angelainfanta1312/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angelainfanta1312/) [![Instagram Badge](https://img.shields.io/badge/-instagram-E4405E?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/infanta__13/)
 
 ---
 
@@ -46,6 +46,8 @@ I'm an Mtech Student interested in building dynamic applications <img src="https
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelainfanta1312&layout=compact&theme=vision-friendly-dark)](https://github.com/angelainfanta1312/github-readme-stats)
 
+<p> <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=angelainfanta1312&show_icons=true&locale=en&theme=github_dark" width="420"/> 
+</p>
 ---
 
 ### :writing_hand: Blog Posts :
