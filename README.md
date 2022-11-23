@@ -26,7 +26,7 @@ I'm an Mtech Student interested in building dynamic applications <img src="https
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <h4> If it's about Computer Vision Project: </h4>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="openCV" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
   <h4> If it's about Data Science Project: </h4>
@@ -42,7 +42,6 @@ I'm an Mtech Student interested in building dynamic applications <img src="https
   <h4>If it's about Software Development Project: </h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>
-  <h5> For Testing: </h5>
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>  
 </div>
 
