@@ -49,7 +49,9 @@ I'm an Mtech Student interested in building dynamic applications <img src="https
 ---
 
 ### :fire: My Stats :
-<img src="https://komarev.com/ghpvc/?username=angelainfanta1312&style=flat-square&color=blue" alt=""/>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=angelainfanta1312&style=flat-square&color=blue" alt=""/>
+  </div>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=angelainfanta1312&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelainfanta1312&layout=compact&theme=vision-friendly-dark)](https://github.com/angelainfanta1312/github-readme-stats)
