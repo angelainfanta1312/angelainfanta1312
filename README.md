@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>
     hey there! I'm Angela
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" width="30px"/>
   </h1>
 </div>
 <div align="center">
