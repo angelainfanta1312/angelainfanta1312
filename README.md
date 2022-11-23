@@ -50,6 +50,6 @@ I'm an Mtech Student interested in building dynamic applications <img src="https
 </p>
 ---
 
-// ### :writing_hand: Blog Posts :
-// <!-- BLOG-POST-LIST:START -->
-// <!-- BLOG-POST-LIST:END -->
+<!-- ### :writing_hand: Blog Posts : -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
