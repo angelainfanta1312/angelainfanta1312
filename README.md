@@ -25,7 +25,7 @@ I'm an Mtech Student interested in building dynamic applications <img src="https
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles or maybe make a Music Cover!
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angelainfanta1312/) [![Instagram Badge](https://img.shields.io/badge/-instagram-E4405E?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/infanta__13/) [![FaceBook Badge](https://img.shields.io/badge/-instagram-E4405E?logo=facebookm&logoColor=white&style=flat)](https://www.facebook.com/angelainfanta.ramesh/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angelainfanta1312/) [![Instagram Badge](https://img.shields.io/badge/-instagram-E4405E?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/infanta__13/) [![FaceBook Badge](https://img.shields.io/badge/-facebook-blue?logo=facebookm&logoColor=white&style=flat)](https://www.facebook.com/angelainfanta.ramesh/)
 - 
 
 ---
