@@ -14,7 +14,7 @@
 I'm an Mtech Student interested in building dynamic applications <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: Interested in solving Problems.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content Writing (Soon you will get some blogs to read).
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles or maybe make a Music Cover!
 
