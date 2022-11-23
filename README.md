@@ -31,7 +31,7 @@ I'm an Mtech Student interested in building dynamic applications <img src="https
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <h2> If its about Computer Vision Project: </h2>
+  #### :If its about Computer Vision Project:
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="openCV" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
