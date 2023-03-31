@@ -46,7 +46,8 @@ I'm an Mtech Student interested in building dynamic applications <img src="https
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>  
   <img src="https://user-images.githubusercontent.com/61941290/213923757-f41cb963-2e0a-45ff-bf59-a75a8d7819d8.png" title="Mocha-Chai" **alt="Mocha-Chai" width="60" height="40"/> 
-  <img src= "https://cdn.worldvectorlogo.com/logos/jest-2.svg" title="Jest" **alt="Jest" width="40" height="40"/> 
+  <img src= "https://cdn.worldvectorlogo.com/logos/jest-2.svg" title="Jest" **alt="Jest" width="50" height="50"/> 
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/1200px-Apache_Feather_Logo.svg.png"  title="JMeter" **alt="JMeter" width="35" height="35"/> 
 
 </div>
 
